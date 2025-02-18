@@ -1,1 +1,1 @@
-# novella_mobile_editor_web
+# Novella Mobile Editor Web
